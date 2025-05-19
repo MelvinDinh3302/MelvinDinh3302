@@ -3,12 +3,6 @@
 🎓 Recent **Computer Science graduate from the University of Michigan** (May 2025)  
 💻 Passionate about building useful tools and solving real-world problems with code
 
-## 🛠️ Technical Skills
-- **Languages:** Python, C++, Java, JavaScript, Typescript, SQL
-- **Frameworks:** React, React Native, Node.js, Flask, Django
-- **Cloud:** AWS, Google Cloud Platform
-- **Tools:** Docker, Git, VS Code, Oracle
-
 ## 💼 Subtitle Generation Service
 Need subtitles for your video content quickly and in batch?
 
@@ -21,3 +15,23 @@ Need subtitles for your video content quickly and in batch?
 ## 📫 Connect With Me
 - 📧 Email: melvindinh2002@gmail.com
 - 🔗 LinkedIn: [melvindinh](https://linkedin.com/in/melvindinh)
+
+## 🛠️ Technical Skills
+- **Languages:** Python, C++, Java, JavaScript, Typescript, SQL
+- **Frameworks:** React, React Native, Node.js, Flask, Django
+- **Cloud:** AWS, Google Cloud Platform
+- **Tools:** Docker, Git, VS Code, Oracle
+
+## 🚀 Projects
+
+### [Daltonize API](https://github.com/MelvinDinh3302/daltonize-api)  
+A RESTful API that applies daltonization to images, improving color perception for colorblind users.
+
+### [Morse Code Flashlight](https://github.com/MelvinDinh3302/morseflashlight)  
+An app that converts text to Morse code using synchronized flashlight blinks and beeps for signaling.
+
+### [Other Projects](https://github.com/MelvinDinh3302?tab=repositories)  
+Explore more of my projects, including experiments, tools, and personal builds.
+
+**Interested in my private, more technical work?**  
+Feel free to DM me — happy to chat.
