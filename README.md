@@ -8,9 +8,11 @@ Need subtitles for your video content quickly and in batch?
 
 🎬 I specialize in **providing AI-generated subtitle files** (.srt) from videos in **any language** using a custom AI pipeline powered by OpenAI Whisper and Google Cloud Translate.
 
-✅ Works for anime, K-dramas, documentaries, or any international media  
-✅ Subtitle files delivered in **any target language**  
-✅ Just provide a link to your video, and I'll handle the rest
+- Works for anime, K-dramas, documentaries, or any international media  
+- Subtitle files delivered in **any target language**  
+- Just provide a link to your video, and I'll handle the rest
+
+🌐 Based in Ann Arbor, MI
 
 ## 📫 Connect With Me
 - 📧 Email: melvindinh2002@gmail.com
