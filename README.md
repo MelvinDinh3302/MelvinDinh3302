@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Melvin Dinh
+# I'm Melvin Dinh
 
 🎓 Recent **Computer Science graduate from the University of Michigan** (May 2025)  
 💻 Passionate about building useful tools and solving real-world problems with code
