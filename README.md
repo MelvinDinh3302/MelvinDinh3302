@@ -24,7 +24,7 @@ Need subtitles for your video content quickly and in batch?
 - **Cloud:** AWS, Google Cloud Platform
 - **Tools:** Docker, Git, VS Code, Oracle
 
-## 🚀 Some Mobile Apps
+## 🚀 Recent Projects
 
 ### [Daltonize API](https://github.com/MelvinDinh3302/daltonize-api)  
 A RESTful API that applies daltonization to images, improving color perception for colorblind users.
