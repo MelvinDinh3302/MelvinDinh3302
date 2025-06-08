@@ -36,4 +36,4 @@ An app that converts text to Morse code using synchronized flashlight blinks and
 Explore more of my projects, including experiments, tools, and personal builds.
 
 **Interested in my private, more technical work?**  
-Feel free to DM me — happy to chat.
+Feel free to DM me. I'm happy to chat.
