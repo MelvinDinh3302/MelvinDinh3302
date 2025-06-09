@@ -16,7 +16,7 @@ Need subtitles for your video content quickly and in batch?
 
 ## 📫 Connect With Me
 - 📧 Email: melvindinh2002@gmail.com
-- 🔗 LinkedIn: [melvindinh](https://linkedin.com/in/melvindinh)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/melvindinh/](https://linkedin.com/in/melvindinh)
 
 ## 🛠️ Technical Skills
 - **Languages:** Python, C++, Java, JavaScript, Typescript, SQL
