@@ -26,11 +26,14 @@ Need subtitles for your video content quickly and in batch?
 
 ## 🚀 Recent Projects
 
+### [See Colors](https://github.com/MelvinDinh3302/seecolors) 
+A cross-platform mobile app that enhances images for people with color blindness by adjusting colors for improved visibility.
+
 ### [Daltonize API](https://github.com/MelvinDinh3302/daltonize-api)  
-A RESTful API that applies daltonization to images, improving color perception for colorblind users.
+A public RESTful API that applies daltonization to images, used by See Colors.
 
 ### [Morse Code Flashlight](https://github.com/MelvinDinh3302/morseflashlight)  
-An app that converts text to Morse code using synchronized flashlight blinks and beeps for signaling.
+A cross-platform mobile app that converts text to Morse code using synchronized flashlight blinks and beeps for signaling.
 
 ### [Other Projects](https://github.com/MelvinDinh3302?tab=repositories)  
 Explore more of my projects, including experiments, tools, and personal builds.
