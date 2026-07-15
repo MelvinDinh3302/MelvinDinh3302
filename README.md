@@ -12,8 +12,6 @@ Need subtitles for your video content quickly and in batch?
 - Subtitle files delivered in **any target language**  
 - Just provide a link to your video, and I'll handle the rest
 
-🌐 Based in Ann Arbor, MI
-
 ## 📫 Connect With Me
 - 📧 Email: melvindinh2002@gmail.com
 - 🔗 LinkedIn: [https://www.linkedin.com/in/melvindinh/](https://linkedin.com/in/melvindinh)
