@@ -1,9 +1,9 @@
 # Hi, I'm Melvin Dinh
 
-🎓 Recent **Computer Science graduate from the University of Michigan** (May 2025)  
-💻 Passionate about building useful tools and solving real-world problems with code
+Currently pursuing MSc Artificial Intelligence at University of Bath  
+Passionate about building useful tools and solving real-world problems with code
 
-## 💼 Subtitle Generation Service
+## Subtitle Generation Service
 Need subtitles for your video content quickly and in batch?
 
 🎬 I specialize in **providing AI-generated subtitle files** (.srt) from videos in **any language** using a custom AI pipeline powered by OpenAI Whisper and Google Cloud Translate.
@@ -12,17 +12,17 @@ Need subtitles for your video content quickly and in batch?
 - Subtitle files delivered in **any target language**  
 - Just provide a link to your video, and I'll handle the rest
 
-## 📫 Connect With Me
-- 📧 Email: melvindinh2002@gmail.com
-- 🔗 LinkedIn: [https://www.linkedin.com/in/melvindinh/](https://linkedin.com/in/melvindinh)
+## Connect With Me
+- Email: melvindinh2002@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/melvindinh/](https://linkedin.com/in/melvindinh)
 
-## 🛠️ Technical Skills
+## Technical Skills
 - **Languages:** Python, C++, Java, JavaScript, Typescript, SQL
 - **Frameworks:** React, React Native, Node.js, Flask, Django
 - **Cloud:** AWS, Google Cloud Platform
 - **Tools:** Docker, Git, VS Code, Oracle
 
-## 🚀 Recent Projects
+## Recent Projects
 
 ### [See Colors](https://github.com/MelvinDinh3302/seecolors) 
 A cross-platform mobile app that enhances images for people with color blindness by adjusting colors for improved visibility.
