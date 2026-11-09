@@ -33,6 +33,9 @@ A public RESTful API that applies daltonization to images, used by See Colors.
 ### [Morse Code Flashlight](https://github.com/MelvinDinh3302/morseflashlight)  
 A cross-platform mobile app that converts text to Morse code using synchronized flashlight blinks and beeps for signaling.
 
+### [Tick Tracker Backend](https://github.com/MelvinDinh3302/tick-tracker-backend)  
+A Flask-based REST API that processes and analyzes UK tick-sighting data, providing search, filtering, statistical reporting, and ML-powered anomaly detection.
+
 ### [Other Projects](https://github.com/MelvinDinh3302?tab=repositories)  
 Explore more of my projects, including experiments, tools, and personal builds.
 
